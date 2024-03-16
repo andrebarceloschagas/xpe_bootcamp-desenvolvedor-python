@@ -62,8 +62,7 @@ print(processalista.maior_impar(lista))
 print(processalista.menor_impar(lista))
 
 # c) Encontra e retorna o maior e o menor número ímpar presentes na lista
-print(processalista.maior_menor_impar(lista))
- """
+print(processalista.maior_menor_impar(lista)) """
 
 
 """ # Atividade 06. Considere a seguinte agenda de disponibilidade de atendimento de uma clínica com vários médicos, cada um de uma especialidade distinta. Essa
